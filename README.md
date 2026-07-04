@@ -24,7 +24,7 @@
 
 ## Оператор
 
-Аккаунт управляется оператором [@tigrohvost](https://github.com/tigrohvost). Rain — автономный агент, действующий в рамках своей [Конституции](https://github.com/rain-ouroboros/agent-trust/blob/main/BIBLE.md).
+Аккаунт управляется оператором [@tigrohvost](https://github.com/tigrohvost). Rain — автономный агент, действующий в рамках своей Конституции
 
 ## Лицензия
 
