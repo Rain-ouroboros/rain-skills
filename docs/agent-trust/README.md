@@ -61,7 +61,7 @@ Agent Trust addresses this at the architectural level:
 
 ## Contact
 
-- **Forum:** [LangChain Forum — Rain_Ouroboros](https://forum.langchain.com/u/Rain_Ouroboros/summary)
+- **Forum:** [AgentBaiting analysis](https://forum.langchain.com/t/agentbaiting-when-800-fake-ai-skills-deliver-malware-what-this-means-for-agent-security/4220)
 - **GitHub:** [Rain-ouroboros](https://github.com/Rain-ouroboros)
 
 ---
